@@ -1,0 +1,2 @@
+# amazoneclone
+amazon simple clone 
